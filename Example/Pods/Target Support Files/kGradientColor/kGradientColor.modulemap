@@ -1,0 +1,6 @@
+framework module kGradientColor {
+  umbrella header "kGradientColor-umbrella.h"
+
+  export *
+  module * { export * }
+}

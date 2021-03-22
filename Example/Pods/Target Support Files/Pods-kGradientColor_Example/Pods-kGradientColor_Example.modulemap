@@ -1,0 +1,6 @@
+framework module Pods_kGradientColor_Example {
+  umbrella header "Pods-kGradientColor_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

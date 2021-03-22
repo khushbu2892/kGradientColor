@@ -1,0 +1,22 @@
+{
+  "name": "kGradientColor",
+  "version": "0.1.0",
+  "summary": "A short description of kGradientColor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khushbu/kGradientColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khushbu": "khushbu.s@cearsinfotech.com"
+  },
+  "source": {
+    "git": "https://github.com/khushbu/kGradientColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "kGradientColor/Classes/**/*"
+}
